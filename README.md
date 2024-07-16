@@ -1,2 +1,1 @@
-# CrewAI-GUI
-crewai frontend gui, project move to LangGraph-GUI
+# Please see [https://github.com/LangGraph-GUI/CrewAI-GUI](https://github.com/LangGraph-GUI/CrewAI-GUI)
